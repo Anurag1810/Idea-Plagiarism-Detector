@@ -1,0 +1,32 @@
+total words of 2nd file : 62.0
+we used synonyms of : [small, friendship, sunshine, girls, fishes, setting, offer, view, trip, french, lobsters, sky, always, town, singing, like, made, breeze, friends, important, ever, blowing, ocean, gorgeous, even, charming, know, restaurants, gave, full, little, tuna, enjoy, best, sun, lot, can, world, romantic, course, place, just, souvenir, relax, one, benefited, also, many, great, blue, watch, mean, beach, well, located]
+Words Matched With First File are : small sunshine girls sun setting can romantic place just sky always town singing relax also breeze friends ever blowing ocean blue gorgeous even mean beach well located gave full 
+found matches considering it's synonyms : 29.0
+testPlag1.docx --> testPlag2.doc : 46.77%
+
+total words of 2nd file : 180.0
+we used synonyms of : [small, friendship, sunshine, girls, fishes, setting, offer, view, trip, french, lobsters, sky, always, town, singing, like, made, breeze, friends, important, ever, blowing, ocean, gorgeous, even, charming, know, restaurants, gave, full, little, tuna, enjoy, best, sun, lot, can, world, romantic, course, place, just, souvenir, relax, one, benefited, also, many, great, blue, watch, mean, beach, well, located]
+Words Matched With First File are : can ever mean one well best 
+found matches considering it's synonyms : 6.0
+testPlag1.docx --> testPlag3.txt : 3.33%
+
+total words of 2nd file : 180.0
+we used synonyms of : [small, friendship, sunshine, girls, fishes, setting, offer, view, trip, french, lobsters, sky, always, town, singing, like, made, breeze, friends, important, ever, blowing, ocean, gorgeous, even, charming, know, restaurants, gave, full, little, tuna, enjoy, best, sun, lot, can, world, romantic, course, place, just, souvenir, relax, one, benefited, also, many, great, blue, watch, mean, beach, well, located]
+Words Matched With First File are : can ever mean one well best 
+found matches considering it's synonyms : 6.0
+testPlag1.docx --> testPlag4.txt : 3.33%
+
+total words of 2nd file : 180.0
+we used synonyms of : [small, prefer, sunshine, several, friendships, girls, experience, developed, setting, beautiful, sky, always, still, went, solid, town, singing, already, want, cherish, breeze, ever, blowing, ocean, gorgeous, even, gave, present, full, back, scenery, birds, sun, sea, remember, can, romantic, just, met, relax, go, also, places, blue, mean, beach, visited, well, located, return]
+Words Matched With First File are : can ever mean go well 
+found matches considering it's synonyms : 5.0
+testPlag2.doc --> testPlag3.txt : 2.78%
+
+total words of 2nd file : 180.0
+we used synonyms of : [small, prefer, sunshine, several, friendships, girls, experience, developed, setting, beautiful, sky, always, still, went, solid, town, singing, already, want, cherish, breeze, ever, blowing, ocean, gorgeous, even, gave, present, full, back, scenery, birds, sun, sea, remember, can, romantic, just, met, relax, go, also, places, blue, mean, beach, visited, well, located, return]
+Words Matched With First File are : can ever mean go well 
+found matches considering it's synonyms : 5.0
+testPlag2.doc --> testPlag4.txt : 2.78%
+
+testPlag3.txt --> testPlag4.txt : 100.0%
+

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-03-18T19:28:57</date>
+  <millis>1584584937898</millis>
+  <sequence>0</sequence>
+  <logger>iplagiarism</logger>
+  <level>INFO</level>
+  <class>iplagiarism.checkPlagiarism</class>
+  <method>check</method>
+  <thread>30</thread>
+  <message>testPlag1.docx --&gt; testPlag2.doc : 46.77%</message>
+</record>
+<record>
+  <date>2020-03-18T19:29:04</date>
+  <millis>1584584944092</millis>
+  <sequence>1</sequence>
+  <logger>iplagiarism</logger>
+  <level>INFO</level>
+  <class>iplagiarism.checkPlagiarism</class>
+  <method>check</method>
+  <thread>30</thread>
+  <message>testPlag1.docx --&gt; testPlag3.txt : 3.33%</message>
+</record>
+<record>
+  <date>2020-03-18T19:29:11</date>
+  <millis>1584584951506</millis>
+  <sequence>2</sequence>
+  <logger>iplagiarism</logger>
+  <level>INFO</level>
+  <class>iplagiarism.checkPlagiarism</class>
+  <method>check</method>
+  <thread>30</thread>
+  <message>testPlag1.docx --&gt; testPlag4.txt : 3.33%</message>
+</record>
+<record>
+  <date>2020-03-18T19:29:22</date>
+  <millis>1584584962447</millis>
+  <sequence>3</sequence>
+  <logger>iplagiarism</logger>
+  <level>INFO</level>
+  <class>iplagiarism.checkPlagiarism</class>
+  <method>check</method>
+  <thread>30</thread>
+  <message>testPlag2.doc --&gt; testPlag3.txt : 2.78%</message>
+</record>
+<record>
+  <date>2020-03-18T19:29:29</date>
+  <millis>1584584969031</millis>
+  <sequence>4</sequence>
+  <logger>iplagiarism</logger>
+  <level>INFO</level>
+  <class>iplagiarism.checkPlagiarism</class>
+  <method>check</method>
+  <thread>30</thread>
+  <message>testPlag2.doc --&gt; testPlag4.txt : 2.78%</message>
+</record>
+<record>
+  <date>2020-03-18T19:29:29</date>
+  <millis>1584584969062</millis>
+  <sequence>5</sequence>
+  <logger>iplagiarism</logger>
+  <level>INFO</level>
+  <class>iplagiarism.checkPlagiarism</class>
+  <method>check</method>
+  <thread>30</thread>
+  <message>testPlag3.txt --&gt; testPlag4.txt : 100.0%</message>
+</record>
+</log>
